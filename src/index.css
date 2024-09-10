@@ -69,8 +69,10 @@ button{
   font-size: 18px;
 }
 article p::first-letter{
+  initial-letter: 3;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: lightgray;
-  font-size: 300%;
+  font-size: 250%;
   font-weight: bold;
 
 }
